@@ -289,7 +289,7 @@ window.NE_DAWN.trigger(target, options);
 欢迎广大开发者一起来添砖加瓦！下面是一些方式来更好的一起参与共建：
 
 - **提Bugs，以及发现新需求**，你可以提 [issue](https://github.com/eventtracing/dawn/issues)
-- **开发者贡献**：如果你有兴趣一起参与共建，可以先看下 以及开发者宣言 [code of conduct](https://github.com/eventtracing/dawn/blob/master/CODE_OF_CONDUCT.md) 以及 [CONTRIBUTING.md](https://github.com/eventtracing/dawn/blob/master/CONTRIBUTING.md)
+- **开发者贡献**：如果你有兴趣一起参与共建，可以先看下 以及开发者宣言 [code of conduct](https://github.com/eventtracing/dawn/blob/master/CODE_OF_CONDUCT.md) 以及 [开发者建议](https://eventtracing.github.io/docs/Contributing/intro)
 
 ## 一起探讨
 
