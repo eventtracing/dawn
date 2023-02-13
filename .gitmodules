@@ -1,0 +1,21 @@
+[submodule "Sources/iOS/EventTracing-iOS"]
+	path = Sources/iOS/EventTracing-iOS
+	url = git@github.com:eventtracing/EventTracing-iOS.git
+[submodule "Sources/iOS/EventTracing-iOS-Debug"]
+	path = Sources/iOS/EventTracing-iOS-Debug
+	url = git@github.com:eventtracing/EventTracing-iOS-Debug.git
+[submodule "Sources/iOS/EventTracing-iOS-LogViewer"]
+	path = Sources/iOS/EventTracing-iOS-LogViewer
+	url = git@github.com:eventtracing/EventTracing-iOS-LogViewer.git
+[submodule "Sources/Android/EventTracing-Android"]
+	path = Sources/Android/EventTracing-Android
+	url = git@github.com:eventtracing/EventTracing-Android.git
+[submodule "Sources/H5/EventTracing-web"]
+	path = Sources/H5/EventTracing-web
+	url = git@github.com:eventtracing/EventTracing-web.git
+[submodule "Sources/easyinsight/easyinsight-web"]
+	path = Sources/easyinsight/easyinsight-web
+	url = git@github.com:eventtracing/easyinsight-web.git
+[submodule "Sources/easyinsight/easyinsight-server"]
+	path = Sources/easyinsight/easyinsight-server
+	url = git@github.com:eventtracing/easyinsight-server.git

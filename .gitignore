@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+/Sources/Android/EventTracing-Android/*
+/Sources/Android/EventTracing-iOS/*
+/Sources/Android/EventTracing-iOS-Debug/*
+/Sources/Android/EventTracing-iOS-LogViewer/*
+/Sources/H5/EventTracing-web/*
+/Sources/H5/EventTracing-web/*
+/Sources/easyinsight/easyinsight-server/*
+/Sources/easyinsight/easyinsight-web/*
