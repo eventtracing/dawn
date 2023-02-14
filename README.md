@@ -7,7 +7,7 @@
 [![version](https://img.shields.io/badge/EventTracing-web-green)]()
 </br>
 [![version](https://img.shields.io/badge/easyinsight-server-blue)]()
-[![version](https://img.shields.io/badge/easyinsight-web-blue)]()
+[![version](https://img.shields.io/badge/easyinsight-front-blue)]()
 
 # 曙光
 
@@ -37,7 +37,7 @@
 - **Android SDK**: [EventTracing-Android](https://github.com/eventtracing/EventTracing-Android)
 - **H5 SDK**: [EventTracing-web](https://github.com/eventtracing/EventTracing-web)
 - **埋点平台 easyinsight-server**: [easyinsight-server](https://github.com/eventtracing/easyinsight-server)
-- **埋点平台 easyinsight-web**: [easyinsight-web](https://github.com/eventtracing/easyinsight-web)
+- **埋点平台 easyinsight-front**: [easyinsight-front](https://github.com/eventtracing/easyinsight-front)
 
 ## iOS & Android端侧SDK特点
 ### 轻量
