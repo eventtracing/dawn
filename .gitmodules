@@ -13,9 +13,10 @@
 [submodule "Sources/H5/EventTracing-web"]
 	path = Sources/H5/EventTracing-web
 	url = git@github.com:eventtracing/EventTracing-web.git
-[submodule "Sources/easyinsight/easyinsight-web"]
-	path = Sources/easyinsight/easyinsight-web
 	url = git@github.com:eventtracing/easyinsight-web.git
 [submodule "Sources/easyinsight/easyinsight-server"]
 	path = Sources/easyinsight/easyinsight-server
 	url = git@github.com:eventtracing/easyinsight-server.git
+[submodule "Sources/easyinsight/easyinsight-front"]
+	path = Sources/easyinsight/easyinsight-front
+	url = git@github.com:eventtracing/easyinsight-front.git
