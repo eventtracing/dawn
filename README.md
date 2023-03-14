@@ -297,5 +297,8 @@ window.NE_DAWN.trigger(target, options);
 
 你可以通过 [Discussions](https://github.com/eventtracing/dawn/discussions) 跟我们一起讨论
 
+也可以加入我们官方微信答疑群：
+![](https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/25766003302/d7b6/374e/de20/8c4e2c5ec417ec881597b994b6d952d0.png)
+
 ## License
 了解更多参见 [LICENSE](./LICENSE)
