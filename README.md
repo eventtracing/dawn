@@ -300,7 +300,7 @@ window.NE_DAWN.trigger(target, options);
 也可以加入到我们的 [slack工作区](https://join.slack.com/t/dawn-sva3699/shared_invite/zt-1r42giro6-lWTTfbRAqpwsvYthYDRC3A)
 
 也可以加入我们官方微信答疑群：
-![](https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/25766003302/d7b6/374e/de20/8c4e2c5ec417ec881597b994b6d952d0.png)
+![image](https://user-images.githubusercontent.com/13214577/229106151-878ce157-6b51-4dd6-93d5-6cd8e1c10cfd.png)
 
 ## License
 了解更多参见 [LICENSE](./LICENSE)
