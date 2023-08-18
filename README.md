@@ -300,9 +300,7 @@ window.NE_DAWN.trigger(target, options);
 也可以加入到我们的 [slack工作区](https://join.slack.com/t/dawn-sva3699/shared_invite/zt-1r42giro6-lWTTfbRAqpwsvYthYDRC3A)
 
 或者也可以加入我们官方微信群（会不定期更新二维码）：
-![image](https://github.com/eventtracing/dawn/assets/121547934/dfd80a30-1736-4fbc-adf7-5e7b9957a63c)
-
-
+![image](https://github.com/eventtracing/dawn/assets/13214577/5a3efa51-8615-4d1d-bfed-33f8874b6ed5)
 
 
 ## License
